@@ -36,7 +36,7 @@ eureka:
     prefer-ip-address: true 
 
 emp:
-  name: unclejet1-fighting
+  name: unclejet1-fighting-1
 
 ---
 server:
